@@ -4,18 +4,20 @@
     "url": "https://jmpianomusic.com",
     "icon": "https://favicons.githubusercontent.com/jmpianomusic.com",
     "slug": "jm-piano",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 779,
-    "timeWeek": 830,
-    "timeMonth": 836,
-    "timeYear": 836,
-    "dailyMinutesDown": {}
+    "time": 798,
+    "timeDay": 442,
+    "timeWeek": 739,
+    "timeMonth": 798,
+    "timeYear": 798,
+    "dailyMinutesDown": {
+      "2021-06-22": 0
+    }
   },
   {
     "name": "Wikipedia",
