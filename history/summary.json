@@ -6,7 +6,7 @@
     "slug": "jm-piano",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "95.45%",
+    "uptimeDay": "97.02%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.76%",
@@ -25,19 +25,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 123,
-    "timeWeek": 231,
-    "timeMonth": 246,
+    "timeDay": 148,
+    "timeWeek": 228,
+    "timeMonth": 245,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2021-07-16": 36
+      "2021-07-16": 58
     }
   }
 ]
