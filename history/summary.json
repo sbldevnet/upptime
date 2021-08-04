@@ -4,7 +4,7 @@
     "url": "https://jmpianomusic.com",
     "icon": "https://favicons.githubusercontent.com/jmpianomusic.com",
     "slug": "jm-piano",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 882,
     "timeYear": 831,
     "dailyMinutesDown": {
+      "2021-08-04": 0,
       "2021-07-20": 21,
       "2021-07-15": 76,
       "2021-07-06": 61
