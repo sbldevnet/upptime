@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/jmpianomusic.com",
     "slug": "jm-piano",
     "status": "down",
-    "uptime": "43.62%",
+    "uptime": "43.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.62%",
+    "uptimeYear": "43.53%",
     "time": 831,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2021-10-20": 20,
+      "2021-10-20": 432,
       "2021-10-19": 1440,
       "2021-10-18": 1440,
       "2021-10-17": 1440,
@@ -104,7 +104,7 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -116,6 +116,7 @@
     "timeMonth": 243,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2021-10-20": 0,
       "2021-07-16": 58
     }
   }
